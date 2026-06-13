@@ -51,7 +51,7 @@ export default function Timeline() {
             </div>
             <div className="w-full md:w-1/2 md:pl-16">
               <div className="glass p-8 rounded-xl transition-all duration-500 group-hover:scale-[1.02] group-hover:border-primary/50">
-                <span className="text-primary font-bold text-sm tracking-widest uppercase block mb-2">March 2025</span>
+                <span className="text-primary font-bold text-sm tracking-widest uppercase block mb-2">June 2025</span>
                 <h3 className="text-3xl font-bold mb-4">Our First Date</h3>
                 <p className="text-white/60 leading-relaxed">
                   Lunch, a long walk under the stars, and conversation that lasted until the sun came up. I didn&apos;t want the night to end, and sparks flew in a way I&apos;d never felt before.
