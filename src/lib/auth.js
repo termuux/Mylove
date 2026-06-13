@@ -1,4 +1,4 @@
-const REQUIRED_DATE = "2025-02-25";
+const REQUIRED_DATE = "2025-06-07";
 const STORAGE_KEY = "proposal_auth";
 
 export function isAuthed() {
