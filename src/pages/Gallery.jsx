@@ -28,7 +28,7 @@ export default function Gallery() {
                 src="/pictures/firstdatepic.jpeg"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex items-end p-4">
-                <span className="text-white text-xs font-semibold bg-primary/80 px-2 py-1 rounded-full">May 5, 2023</span>
+                <span className="text-white text-xs font-semibold bg-primary/80 px-2 py-1 rounded-full">June 7,2025</span>
               </div>
             </div>
             <h3 className="text-lg font-bold px-2">First Date</h3>
@@ -44,7 +44,7 @@ export default function Gallery() {
                 src="/pictures/birthdaypic.jpeg"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex items-end p-4">
-                <span className="text-white text-xs font-semibold bg-primary/80 px-2 py-1 rounded-full">March 15, 2023</span>
+                <span className="text-white text-xs font-semibold bg-primary/80 px-2 py-1 rounded-full">Jan 21, 2025</span>
               </div>
             </div>
             <h3 className="text-lg font-bold px-2">Birthday Surprise</h3>
